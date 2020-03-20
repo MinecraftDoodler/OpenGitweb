@@ -1,3 +1,5 @@
+!version=1.0
+
 #image
 	type=banner
 	location=repo:_assets/banner_basic_red.png
