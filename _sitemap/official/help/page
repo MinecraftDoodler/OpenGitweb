@@ -1,0 +1,22 @@
+#image
+	type=banner
+	location=repo:_assets/banner_basic_blue.png
+	text=&f&lWelcome to GitWeb
+
+#organiser
+	type=horizontal
+	align=left
+	#button
+		text=Home
+		icon=HOME
+		disable=true
+	#button
+		text=Site Index
+		icon=CONTACTS
+		link=help.official/index
+
+#divider
+	size=10
+
+#paragraph
+	text=Welcome to the Open Gitweb, we hope you enjoy your stay!

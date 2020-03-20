@@ -1,0 +1,22 @@
+#image
+	type=banner
+	location=repo:_assets/banner_basic_blue.png
+	text=&f&lOfficial Index
+
+#organiser
+	type=horizontal
+	align=left
+	#button
+		text=Home
+		icon=HOME
+		link=help.official
+	#button
+		text=Site Index
+		icon=CONTACTS
+		disable=true
+
+#divider
+	size=10
+
+#paragraph
+	text=Nothing to see here yet, bye bye ;)

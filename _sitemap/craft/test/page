@@ -1,0 +1,28 @@
+#image
+	type=banner
+	location=repo:_assets/banner_basic_red.png
+	text=&f&lComponent Test Server
+
+#divider
+	size=10
+
+#paragraph
+	text=testing the organiser component with buttons, organisers by default align their items into the centre of the screen
+
+#divider
+	size=10
+
+#organiser
+	type=horizontal
+	#organiser
+		type=vertical
+		#button
+			text=Test 1
+		#button
+			text=Test 2
+	#organiser
+		type=vertical
+		#button
+			text=Test 3
+		#button
+			text=Test 4
