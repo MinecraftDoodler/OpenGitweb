@@ -1,13 +1,13 @@
 # GitWeb-Sites
-This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with MrCrayfish's Device Mod.
+This is the repository containing the community of user created sites (referred from here on out as pages) for the GitWeb client available with the Open Device Mod.
 
-## Rules of Index creation
+## Rules of Page creation
 1. You are limited to the use of domain suffixes presented in this readme.
 
-2. An index must not contain advertisements of any kind in the sense of the oxford dictionary.
+2. An page must not contain advertisements of any kind in the sense of the oxford dictionary.
     - *Restrictions may be lifted under certain cases.*
     
-3. An index must not contain obcene material of any kind in the sense of the oxford dictionary.
+3. An page must not contain obcene material of any kind in the sense of the oxford dictionary.
     - *Restrictions will never be lifted under any circumstance.*
 
 4. Indexes should primarily be in the English CA/UK/US language defined by the oxford dictionary.
